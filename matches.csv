@@ -1,0 +1,105 @@
+match_id,stage,group,date,time_et,time_local,team_1,team_2,stadium,city,cat1_price,cat1_available,cat2_price,cat2_available,country,status
+1,Group Stage,A,11-06-2026,15:00,13:00,Mexico,South Africa,Estadio Azteca,Mexico City,2000,130,500,130,Mexico,Available
+2,Group Stage,A,11-06-2026,22:00,20:00,Korea Republic,Czechia,Estadio Akron,Guadalajara,2000,125,500,125,Mexico,Available
+3,Group Stage,B,12-06-2026,15:00,15:00,Canada,Bosnia and Herzegovina,BMO Field,Toronto,2000,120,500,120,Canada,Available
+4,Group Stage,D,12-06-2026,21:00,18:00,United States,Paraguay,SoFi Stadium,Los Angeles,2000,150,500,150,United States,Available
+5,Group Stage,C,13-06-2026,21:00,21:00,Haiti,Scotland,Gillette Stadium,Boston,2000,130,500,130,United States,Available
+6,Group Stage,D,13-06-2026,00:00,21:00,Australia,Türkiye,BC Place,Vancouver,2000,125,500,125,Canada,Available
+7,Group Stage,C,13-06-2026,18:00,18:00,Brazil,Morocco,MetLife Stadium,New York/New Jersey,2000,120,500,120,United States,Available
+8,Group Stage,B,13-06-2026,15:00,12:00,Qatar,Switzerland,Levi's Stadium,San Francisco Bay Area,2000,150,500,150,United States,Available
+9,Group Stage,E,14-06-2026,19:00,19:00,Côte d’Ivoire,Ecuador,Lincoln Financial Field,Philadelphia,2000,130,500,130,United States,Available
+10,Group Stage,E,14-06-2026,13:00,12:00,Germany,Curaçao,NRG Stadium,Houston,2000,125,500,125,United States,Available
+11,Group Stage,F,14-06-2026,16:00,15:00,Netherlands,Japan,AT&T Stadium,Dallas,2000,120,500,120,United States,Available
+12,Group Stage,F,14-06-2026,22:00,20:00,Sweden,Tunisia,Estadio BBVA,Monterrey,2000,150,500,150,Mexico,Available
+13,Group Stage,H,15-06-2026,18:00,18:00,Saudi Arabia,Uruguay,Hard Rock Stadium,Miami,2000,130,500,130,United States,Available
+14,Group Stage,H,15-06-2026,12:00,12:00,Spain,Cabo Verde,Mercedes-Benz Stadium,Atlanta,2000,125,500,125,United States,Available
+15,Group Stage,G,15-06-2026,21:00,18:00,Iran,New Zealand,SoFi Stadium,Los Angeles,2000,120,500,120,United States,Available
+16,Group Stage,G,15-06-2026,15:00,12:00,Belgium,Egypt,Lumen Field,Seattle,2000,150,500,150,United States,Available
+17,Group Stage,I,16-06-2026,15:00,15:00,France,Senegal,MetLife Stadium,New York/New Jersey,2000,130,500,130,United States,Available
+18,Group Stage,I,16-06-2026,18:00,18:00,Iraq,Norway,Gillette Stadium,Boston,2000,125,500,125,United States,Available
+19,Group Stage,J,16-06-2026,21:00,20:00,Argentina,Algeria,Arrowhead Stadium,Kansas City,2000,120,500,120,United States,Available
+20,Group Stage,J,16-06-2026,00:00,21:00,Austria,Jordan,Levi's Stadium,San Francisco Bay Area,2000,150,500,150,United States,Available
+21,Group Stage,L,17-06-2026,19:00,19:00,Ghana,Panama,BMO Field,Toronto,2000,130,500,130,Canada,Available
+22,Group Stage,L,17-06-2026,16:00,15:00,England,Croatia,AT&T Stadium,Dallas,2000,125,500,125,United States,Available
+23,Group Stage,K,17-06-2026,13:00,12:00,Portugal,Congo DR,NRG Stadium,Houston,2000,120,500,120,United States,Available
+24,Group Stage,K,17-06-2026,22:00,20:00,Uzbekistan,Colombia,Estadio Azteca,Mexico City,2000,150,500,150,Mexico,Available
+25,Group Stage,A,18-06-2026,12:00,12:00,Czechia,South Africa,Mercedes-Benz Stadium,Atlanta,2000,130,500,130,United States,Available
+26,Group Stage,B,18-06-2026,15:00,12:00,Switzerland,Bosnia and Herzegovina,SoFi Stadium,Los Angeles,2000,125,500,125,United States,Available
+27,Group Stage,B,18-06-2026,18:00,15:00,Canada,Qatar,BC Place,Vancouver,2000,120,500,120,Canada,Available
+28,Group Stage,A,18-06-2026,21:00,19:00,Mexico,Korea Republic,Estadio Akron,Guadalajara,2000,150,500,150,Mexico,Available
+29,Group Stage,C,19-06-2026,21:00,21:00,Brazil,Haiti,Lincoln Financial Field,Philadelphia,2000,130,500,130,United States,Available
+30,Group Stage,C,19-06-2026,18:00,18:00,Scotland,Morocco,Gillette Stadium,Boston,2000,125,500,125,United States,Available
+31,Group Stage,D,19-06-2026,23:00,20:00,Türkiye,Paraguay,Levi's Stadium,San Francisco Bay Area,2000,120,500,120,United States,Available
+32,Group Stage,D,19-06-2026,15:00,12:00,United States,Australia,Lumen Field,Seattle,2000,150,500,150,United States,Available
+33,Group Stage,E,20-06-2026,16:00,16:00,Germany,Côte d’Ivoire,BMO Field,Toronto,2000,130,500,130,Canada,Available
+34,Group Stage,E,20-06-2026,20:00,19:00,Ecuador,Curaçao,Arrowhead Stadium,Kansas City,2000,125,500,125,United States,Available
+35,Group Stage,F,20-06-2026,13:00,12:00,Netherlands,Sweden,NRG Stadium,Houston,2000,120,500,120,United States,Available
+36,Group Stage,F,20-06-2026,00:00,22:00,Tunisia,Japan,Estadio BBVA,Monterrey,2000,150,500,150,Mexico,Available
+37,Group Stage,H,21-06-2026,18:00,18:00,Uruguay,Cabo Verde,Hard Rock Stadium,Miami,2000,130,500,130,United States,Available
+38,Group Stage,H,21-06-2026,12:00,12:00,Spain,Saudi Arabia,Mercedes-Benz Stadium,Atlanta,2000,125,500,125,United States,Available
+39,Group Stage,G,21-06-2026,15:00,12:00,Belgium,Iran,SoFi Stadium,Los Angeles,2000,120,500,120,United States,Available
+40,Group Stage,G,21-06-2026,21:00,18:00,New Zealand,Egypt,BC Place,Vancouver,2000,150,500,150,Canada,Available
+41,Group Stage,I,22-06-2026,20:00,20:00,Norway,Senegal,MetLife Stadium,New York/New Jersey,2000,130,500,130,United States,Available
+42,Group Stage,I,22-06-2026,17:00,17:00,France,Iraq,Lincoln Financial Field,Philadelphia,2000,125,500,125,United States,Available
+43,Group Stage,J,22-06-2026,13:00,12:00,Argentina,Austria,AT&T Stadium,Dallas,2000,120,500,120,United States,Available
+44,Group Stage,J,22-06-2026,23:00,20:00,Jordan,Algeria,Levi's Stadium,San Francisco Bay Area,2000,150,500,150,United States,Available
+45,Group Stage,L,23-06-2026,16:00,16:00,England,Ghana,Gillette Stadium,Boston,2000,130,500,130,United States,Available
+46,Group Stage,L,23-06-2026,19:00,19:00,Panama,Croatia,BMO Field,Toronto,2000,125,500,125,Canada,Available
+47,Group Stage,K,23-06-2026,13:00,12:00,Portugal,Uzbekistan,NRG Stadium,Houston,2000,120,500,120,United States,Available
+48,Group Stage,K,23-06-2026,22:00,20:00,Colombia,Congo DR,Estadio Akron,Guadalajara,2000,150,500,150,Mexico,Available
+49,Group Stage,C,24-06-2026,18:00,18:00,Scotland,Brazil,Hard Rock Stadium,Miami,2000,130,500,130,United States,Available
+50,Group Stage,C,24-06-2026,18:00,18:00,Morocco,Haiti,Mercedes-Benz Stadium,Atlanta,2000,125,500,125,United States,Available
+51,Group Stage,B,24-06-2026,15:00,12:00,Switzerland,Canada,BC Place,Vancouver,2000,120,500,120,Canada,Available
+52,Group Stage,B,24-06-2026,15:00,12:00,Bosnia and Herzegovina,Qatar,Lumen Field,Seattle,2000,150,500,150,United States,Available
+53,Group Stage,A,24-06-2026,21:00,19:00,Czechia,Mexico,Estadio Azteca,Mexico City,2000,130,500,130,Mexico,Available
+54,Group Stage,A,24-06-2026,21:00,19:00,South Africa,Korea Republic,Estadio BBVA,Monterrey,2000,125,500,125,Mexico,Available
+55,Group Stage,E,25-06-2026,16:00,16:00,Curaçao,Côte d’Ivoire,Lincoln Financial Field,Philadelphia,2000,120,500,120,United States,Available
+56,Group Stage,E,25-06-2026,16:00,16:00,Ecuador,Germany,MetLife Stadium,New York/New Jersey,2000,150,500,150,United States,Available
+57,Group Stage,F,25-06-2026,19:00,18:00,Japan,Sweden,AT&T Stadium,Dallas,2000,130,500,130,United States,Available
+58,Group Stage,F,25-06-2026,19:00,18:00,Tunisia,Netherlands,Arrowhead Stadium,Kansas City,2000,125,500,125,United States,Available
+59,Group Stage,D,25-06-2026,22:00,19:00,Türkiye,United States,SoFi Stadium,Los Angeles,2000,120,500,120,United States,Available
+60,Group Stage,D,25-06-2026,22:00,19:00,Paraguay,Australia,Levi's Stadium,San Francisco Bay Area,2000,150,500,150,United States,Available
+61,Group Stage,I,26-06-2026,15:00,15:00,Norway,France,Gillette Stadium,Boston,2000,130,500,130,United States,Available
+62,Group Stage,I,26-06-2026,15:00,15:00,Senegal,Iraq,BMO Field,Toronto,2000,125,500,125,Canada,Available
+63,Group Stage,G,26-06-2026,23:00,20:00,Egypt,Iran,Lumen Field,Seattle,2000,120,500,120,United States,Available
+64,Group Stage,G,26-06-2026,23:00,20:00,New Zealand,Belgium,BC Place,Vancouver,2000,150,500,150,Canada,Available
+65,Group Stage,H,26-06-2026,20:00,19:00,Cabo Verde,Saudi Arabia,NRG Stadium,Houston,2000,130,500,130,United States,Available
+66,Group Stage,H,26-06-2026,20:00,18:00,Uruguay,Spain,Estadio Akron,Guadalajara,2000,125,500,125,Mexico,Available
+67,Group Stage,L,27-06-2026,17:00,17:00,Panama,England,MetLife Stadium,New York/New Jersey,2000,120,500,120,United States,Available
+68,Group Stage,L,27-06-2026,17:00,17:00,Croatia,Ghana,Lincoln Financial Field,Philadelphia,2000,150,500,150,United States,Available
+69,Group Stage,J,27-06-2026,22:00,21:00,Algeria,Austria,Arrowhead Stadium,Kansas City,2000,130,500,130,United States,Available
+70,Group Stage,J,27-06-2026,22:00,21:00,Jordan,Argentina,AT&T Stadium,Dallas,2000,125,500,125,United States,Available
+71,Group Stage,K,27-06-2026,19:30,19:30,Colombia,Portugal,Hard Rock Stadium,Miami,2000,120,500,120,United States,Available
+72,Group Stage,K,27-06-2026,19:30,19:30,Congo DR,Uzbekistan,Mercedes-Benz Stadium,Atlanta,2000,150,500,150,United States,Available
+73,Round of 32,,28-06-2026,15:00,12:00,Group A Runner-up,Group B Runner-up,SoFi Stadium,Los Angeles,2000,130,500,130,United States,Available
+74,Round of 32,,29-06-2026,16:30,16:30,Group E Winner,Group A/B/C/D/F 3rd Place,Gillette Stadium,Boston,2000,125,500,125,United States,Available
+75,Round of 32,,29-06-2026,21:00,19:00,Group F Winner,Group C Runner-up,Estadio BBVA,Monterrey,2000,120,500,120,Mexico,Available
+76,Round of 32,,29-06-2026,13:00,12:00,Group C Winner,Group F Runner-up,NRG Stadium,Houston,2000,150,500,150,United States,Available
+77,Round of 32,,30-06-2026,17:00,17:00,Group I Winner,Group C/D/F/G/H 3rd Place,MetLife Stadium,New York/New Jersey,2000,130,500,130,United States,Available
+78,Round of 32,,30-06-2026,13:00,12:00,Group E Runner-up,Group I Runner-up,AT&T Stadium,Dallas,2000,125,500,125,United States,Available
+79,Round of 32,,30-06-2026,21:00,19:00,Group A Winner,Group C/E/F/H/I 3rd Place,Estadio Azteca,Mexico City,2000,120,500,120,Mexico,Available
+80,Round of 32,,01-07-2026,12:00,12:00,Group L Winner,Group E/H/I/J/K 3rd Place,Mercedes-Benz Stadium,Atlanta,2000,150,500,150,United States,Available
+81,Round of 32,,01-07-2026,20:00,17:00,Group D Winner,Group B/E/F/I/J 3rd Place,Levi's Stadium,San Francisco Bay Area,2000,130,500,130,United States,Available
+82,Round of 32,,01-07-2026,16:00,13:00,Group G Winner,Group A/E/H/I/J 3rd Place,Lumen Field,Seattle,2000,125,500,125,United States,Available
+83,Round of 32,,02-07-2026,19:00,19:00,Group K Runner-up,Group L Runner-up,BMO Field,Toronto,2000,120,500,120,Canada,Available
+84,Round of 32,,02-07-2026,15:00,12:00,Group H Winner,Group J Runner-up,SoFi Stadium,Los Angeles,2000,150,500,150,United States,Available
+85,Round of 32,,02-07-2026,23:00,20:00,Group B Winner,Group E/F/G/I/J 3rd Place,BC Place,Vancouver,2000,130,500,130,Canada,Available
+86,Round of 32,,03-07-2026,18:00,18:00,Group J Winner,Group H Runner-up,Hard Rock Stadium,Miami,2000,125,500,125,United States,Available
+87,Round of 32,,03-07-2026,21:30,20:30,Group K Winner,Group D/E/I/J/L 3rd Place,Arrowhead Stadium,Kansas City,2000,120,500,120,United States,Available
+88,Round of 32,,03-07-2026,14:00,13:00,Group D Runner-up,Group G Runner-up,AT&T Stadium,Dallas,2000,150,500,150,United States,Available
+89,Round of 16,,04-07-2026,17:00,17:00,Match 74 Winner,Match 77 Winner,Lincoln Financial Field,Philadelphia,2000,130,500,130,United States,Available
+90,Round of 16,,04-07-2026,13:00,12:00,Match 73 Winner,Match 75 Winner,NRG Stadium,Houston,2000,125,500,125,United States,Available
+91,Round of 16,,05-07-2026,16:00,16:00,Match 76 Winner,Match 78 Winner,MetLife Stadium,New York/New Jersey,2000,120,500,120,United States,Available
+92,Round of 16,,05-07-2026,20:00,18:00,Match 79 Winner,Match 80 Winner,Estadio Azteca,Mexico City,2000,150,500,150,Mexico,Available
+93,Round of 16,,06-07-2026,15:00,14:00,Match 83 Winner,Match 84 Winner,AT&T Stadium,Dallas,2000,130,500,130,United States,Available
+94,Round of 16,,06-07-2026,20:00,17:00,Match 81 Winner,Match 82 Winner,Lumen Field,Seattle,2000,125,500,125,United States,Available
+95,Round of 16,,07-07-2026,12:00,12:00,Match 86 Winner,Match 88 Winner,Mercedes-Benz Stadium,Atlanta,2000,120,500,120,United States,Available
+96,Round of 16,,07-07-2026,16:00,13:00,Match 85 Winner,Match 87 Winner,BC Place,Vancouver,2000,150,500,150,Canada,Available
+97,Quarter-finals,,09-07-2026,16:00,16:00,Match 89 Winner,Match 90 Winner,Gillette Stadium,Boston,2000,130,500,130,United States,Available
+98,Quarter-finals,,10-07-2026,15:00,12:00,Match 93 Winner,Match 94 Winner,SoFi Stadium,Los Angeles,2000,120,500,120,United States,Available
+99,Quarter-finals,,11-07-2026,17:00,17:00,Match 91 Winner,Match 92 Winner,Hard Rock Stadium,Miami,2000,310,500,310,United States,Available
+100,Quarter-finals,,11-07-2026,21:00,20:00,Match 95 Winner,Match 96 Winner,Arrowhead Stadium,Kansas City,2000,98,500,98,United States,Available
+101,Semi-finals,,14-07-2026,15:00,14:00,Match 97 Winner,Match 98 Winner,AT&T Stadium,Dallas,2000,37,500,37,United States,Available
+102,Semi-finals,,15-07-2026,15:00,15:00,Match 99 Winner,Match 100 Winner,Mercedes-Benz Stadium,Atlanta,2000,48,500,48,United States,Available
+103,Third Place,,18-07-2026,17:00,17:00,Match 101 Loser,Match 102 Loser,Hard Rock Stadium,Miami,2000,80,500,80,United States,Available
+104,Final,,19-07-2026,15:00,15:00,Match 101 Winner,Match 102 Winner,MetLife Stadium,New York/New Jersey,2000,29,500,29,United States,Available
